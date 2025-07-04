@@ -1,7 +1,7 @@
 # Sistema:
 Plouto-Rewards
 ## Problemas que resolve
-- Desmotivação na conclusão de metas pela falta de reconhecimento por parte da empresa empresa;
+- Desmotivação na conclusão de metas pela falta de reconhecimento por parte da empresa;
 - Nem todos os funcionários mantêm um ritmo constante de desempenho.
 ## Público-alvo
 Empresas de varejos.
