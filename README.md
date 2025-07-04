@@ -1,9 +1,9 @@
 # Sistema:
 Plouto-Rewards
 ## Problema que resolve
-Falta de motivação e foco na conclusão de metas trabalhistas.
+Desmotivação na conclusão de metas e falta de foco na empresa
 ## Público-alvo
-Profissionais da saúde autônomos.
+Empresas de Supermercado.
 ## Funcionalidades principais
 – Sistema de geração de tarefas por cargos;
 – Sistema de reinvindicação de recompensas;
