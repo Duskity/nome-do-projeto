@@ -21,7 +21,7 @@ O sistema que irá gerar questionários afim de saber indiretamente qual produto
 - NetBeans;
 - Lucidchard,
 ## Como o sistema poderá evoluir no futuro?
-– Evolução de app desktop para app mobile;
+- Evolução de app desktop para app mobile;
 - Sistema voltado para usuários com sistema de cupons como recompensas.
 ## Quais responsabilidades cada integrante do grupo terá?
 - Criação de diagramas de caso de uso e de Classe - Daniel;
