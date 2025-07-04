@@ -1,20 +1,20 @@
 # Sistema:
 Plouto-Rewards
-## Problema que resolve
-Desmotivação na conclusão de metas e falta de foco na empresa
+## Problemas que resolve
+- Desmotivação na conclusão de metas pela falta de reconhecimento por parte da empresa empresa;
+- Nem todos os funcionários mantêm um ritmo constante de desempenho.
 ## Público-alvo
-Empresas de Supermercado.
+Empresas de varejos.
 ## Funcionalidades principais
-- Sistema de geração de tarefas por departamento;
-- Sistema de reinvidicação das recompensas das tarefas;
-- Funcionalidade de visualização em tempo realda conclusão de metasdos colaboradores.
+- Sistema de ranking mensal de vendas;
+- Sistema de reinvidicação de recompensas dos pontos;
+- Funcionalidade de visualização em tempo real da conclusão de metas dos colaboradores.
 ## Diferencial
 O sistema que irá gerar questionários afim de saber indiretamente qual produto o funcionário deseja.
 ## Dificuldades técnicas previstas
-- Complexidade na gestão; 
-- Atualização de catálogo; 
+- Lógica de pontuação e regras de missão;
+- Sistema de ranking em tempo real;
 - Mudança regular nas recompensas;
- - Dificuldades das tarefas.
 ## Tecnologias
 - MY SQL Workbanch;
 - Java;
